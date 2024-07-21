@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-We are SUI’s Premier Yield 💰 Optimiser
+**We are SUI’s Premier Yield 💰 Optimiser:**
 
-🔒 AlphaFi is ‘Secure by Design’ through SUI
-📃 Audited by MOVEBIT - Smart Contract Audits Secure AlphaFi
-👀 Monitored by Zero Shadow - 24/7 Protection Enhances AlphaFi's Security
-🤟 Built for you by Crypto OGs... In Love With SUI
+    🔒 AlphaFi is ‘Secure by Design’ through SUI
+    📃 Audited by MOVEBIT - Smart Contract Audits Secure AlphaFi
+    👀 Monitored by Zero Shadow - 24/7 Protection Enhances AlphaFi's Security
+    🤟 Built for you by Crypto OGs... In Love With SUI
  
 <!--
 
